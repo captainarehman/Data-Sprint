@@ -11,7 +11,7 @@
   const CONFIG = {
     // Where visitors land after they press the "Data Sprint" button.
     // Swap this for your real registration link.
-    redirectUrl: 'https://your-registration-site.example.com',
+    redirectUrl: 'https://techshala.vpt.edu.in/events/data-sprint-2026-analyse-predict-innovate',
     // false (default) = pressing the button runs the transition, then
     //   redirects to redirectUrl above.
     // true = go back to the original in-page QR / register screen
